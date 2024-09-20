@@ -12,3 +12,4 @@ E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.1\patrick\C#\hello world\o
 E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.1\patrick\C#\hello world\obj\Debug\net6.0\hello world.pdb
 E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.1\patrick\C#\hello world\obj\Debug\net6.0\hello world.genruntimeconfig.cache
 E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.1\patrick\C#\hello world\obj\Debug\net6.0\ref\hello world.dll
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.1\patrick\C#\hello world\obj\Debug\net6.0\hello world.sourcelink.json

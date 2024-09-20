@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\lesson_1.1",
+    "\\lesson_1.1\\patrick",
+    "\\lesson_1.1\\patrick\\C#",
+    "\\lesson_1.1\\patrick\\C#\\hello world",
     "\\lesson_1.2",
-    "\\lesson_1.2\\patrick"
+    "\\lesson_1.2\\patrick",
+    "\\lesson_1.2\\patrick\\C#",
+    "\\lesson_1.2\\patrick\\C#\\ConsoleApp1"
   ],
-  "SelectedNode": "\\lesson_1.2\\patrick",
+  "SelectedNode": "\\lesson_1.1\\patrick\\patrick_notes.md",
   "PreviewInSolutionExplorer": false
 }
