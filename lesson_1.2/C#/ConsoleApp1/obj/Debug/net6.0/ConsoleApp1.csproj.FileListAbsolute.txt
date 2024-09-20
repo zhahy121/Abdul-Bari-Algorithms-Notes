@@ -1,0 +1,14 @@
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\local project\Abdul-Bari-Algorithms-Notes\lesson_1.2\C#\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
